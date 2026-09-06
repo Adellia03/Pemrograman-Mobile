@@ -1,4 +1,4 @@
-import 'package:materi_5/materi_5.dart';
+import '../lib/materi_5.dart';
 import 'package:test/test.dart';
 
 void main() {
