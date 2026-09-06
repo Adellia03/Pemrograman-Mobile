@@ -1,8 +1,8 @@
-import 'package:materi_2/materi_2.dart';
+import '../lib/materi_22.dart' as materi_2;
 import 'package:test/test.dart';
 
 void main() {
   test('calculate', () {
-    expect(calculate(), 42);
+    expect(materi_2.calculate(), 42);
   });
 }
